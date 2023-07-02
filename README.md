@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isroiljonov Xabibullo</h1>
 <h3 align="center">A passionate fullstack developer from Uzbekistan</h3>
- <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Load" align="right" width="350px">
+ <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Load" align="right" width="352px">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khabibprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="khabibprogrammer" /> </p>
